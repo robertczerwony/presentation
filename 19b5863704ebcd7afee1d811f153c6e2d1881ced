@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa81d914_3a457f70",
+        "filename": ".gitignore",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1004353
+      },
+      "writtenOn": "2016-01-14T23:09:15Z",
+      "side": 1,
+      "message": "Each comment is assigned to the specified line (above) ...",
+      "range": {
+        "startLine": 9,
+        "startChar": 2,
+        "endLine": 9,
+        "endChar": 6
+      },
+      "revId": "19b5863704ebcd7afee1d811f153c6e2d1881ced",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
